@@ -1,0 +1,40 @@
+body{
+    background-color:darkseagreen;
+}
+
+#header {
+    background-color: azure;
+    text-align: center;
+    border-width: 2mm;
+    border-style: ridge;
+    border-radius: 2mm;
+}
+#navlinks{
+    position: fixed;
+    margin-left: 0%;
+}
+#list{
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    padding: 15px;
+
+    margin-left: 35%;
+}
+#footer{
+    border-width: 1px;
+    background-color: azure;
+    border-style: solid;
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+    width: 20%;
+    height: 20%;
+    border-width: 4px;
+    border-style:ridge;
+    border-color: blanchedalmond;
+    display:block;
+    margin-left: 25%;
+    margin-right: 25%
+}
